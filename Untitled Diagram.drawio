@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T10:37:20.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" version="16.2.6" etag="hjrHTGACAoDxZBBIflqN" type="github"><diagram id="89qooSQHpIThL-K5rPMv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-07T10:43:02.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="XfE8PkRP1JlmpTXnrpIP" version="16.2.6" type="github">
+  <diagram id="89qooSQHpIThL-K5rPMv" name="Page-1">
+    <mxGraphModel dx="1374" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QO8CP61XxPZuNt5zvdLs-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="179" width="520" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QO8CP61XxPZuNt5zvdLs-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="324" width="520" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QO8CP61XxPZuNt5zvdLs-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-60" width="520" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QO8CP61XxPZuNt5zvdLs-12" value="CACHE" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-70" width="650" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="QO8CP61XxPZuNt5zvdLs-11" value="User Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QO8CP61XxPZuNt5zvdLs-12">
+          <mxGeometry x="300" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QO8CP61XxPZuNt5zvdLs-13" value="«interface»&lt;br&gt;&lt;b&gt;ICache&lt;/b&gt;" style="html=1;" vertex="1" parent="QO8CP61XxPZuNt5zvdLs-12">
+          <mxGeometry x="270" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QO8CP61XxPZuNt5zvdLs-9" value="intercepte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QO8CP61XxPZuNt5zvdLs-12">
+          <mxGeometry x="314" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QO8CP61XxPZuNt5zvdLs-7" value="Engine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QO8CP61XxPZuNt5zvdLs-12">
+          <mxGeometry x="324" y="420" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
